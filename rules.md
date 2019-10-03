@@ -1,5 +1,6 @@
 # Secret Hitler: Double Agent Double Trouble Expansion Pack
-Idea started by talking with Micah and Sarah on the phone Saturday 2018-12-22.
+
+Rules version: `2019-003`
 
 ## Intro
 Remember all those forked timelines you somehow lived through of the historical period starting in 1932 and leading up to the Third Reich or lack thereof in Germany? Remember how the Fascists were a bunch of sneaks who somehow had figured out who each other were? Remember how Fascists smugly coasted on this knowledge? Remember how the Liberals had consistent tragicomedic trust issues due to their difficulties identifying one another? Isn’t it strange that you somehow remember so many forked timelines around this point in history?
@@ -26,6 +27,7 @@ Until the game is over, all players must keep their Secret Role cards inside the
 This expansion pack introduces a new way for Liberals to win. The Liberals win if the Double Agent and Secret Hitler are elected to the same government after three Fascist policies have been passed.
 
 ## New Game Mechanic: Fascist Traitor Assassination
+
 At any point in the game, any Fascist may say “I assassinate [player name] for being a traitor to the Fascist cause”.
 
 * If the named player is a Fascist, they die.
@@ -35,6 +37,8 @@ At any point in the game, any Fascist may say “I assassinate [player name] for
 Dead players are removed from the game and may not speak, vote, or run for office.
 
 The Double Agent may not carry out a Traitor Assassination.
+
+There is a period during each game round when a Fascist Traitor Assassination is forbidden: from after a government's President touches the policy deck until any resulting Presidential Powers are used. (If a Liberal policy is passed, the off-limits period ends once the policy is on the board.)
 
 ## Investigating the Double Agent
 When a player uses the Investigate Loyalty Presidential Power, the Double Agent behaves this way under investigation:
@@ -60,5 +64,6 @@ This expansion was created by: Micah Webber, Sarah Feero, and William Proffitt.
 
 ## Rules Version History
 
+* `2019-003` Created a rule to avoid race condition: presidential power must be used before a Fascist Traitor Assassination can happen 2019-03-17
 * `2019-002` First rule tweak: no benefit beyond killing double agent for successful double agent kill, and therefore no double agent reveal 2019-02-20
 * `2019-001` Original rules, first played 2019-01-27
