@@ -29,7 +29,7 @@ This expansion pack introduces a new way for Liberals to win. The Liberals win i
 At any point in the game, any Fascist may say “I assassinate [player name] for being a traitor to the Fascist cause”.
 
 * If the named player is a Fascist, they die.
-* If the named player is the Double Agent, they die. In addition, the Double Agent must choose a second Liberal who also dies with them.
+* If the named player is the Double Agent, they die. They do not say whether they were the Double Agent, for they are dead.
 * If the named player is a Liberal, the Fascist who attempted the assassination dies.
 
 Dead players are removed from the game and may not speak, vote, or run for office.
@@ -43,14 +43,22 @@ When a player uses the Investigate Loyalty Presidential Power, the Double Agent 
 * If the investigating player is Liberal, the Double Agent shows them the Liberal Double Agent Party Membership card.
 
 ## Strategy Notes and Corollaries
+
 * *Barring mistakes, the Fascists almost always win if their party holds a majority or a 50-50 split, even if the Liberals know who the Fascists are.* This happens simply due to both how the electoral process works and the 11-Fascist, 6-Liberal makeup of the policy deck.
 * *It is important for a Liberal Double Agent under Loyalty Investigation to be inconspicuous about the fact they are choosing between two different Party Membership cards to secretly present.* A mistake here could easily cost the game.
 * *It is important for a Liberal who has performed a Loyalty Investigation against the Liberal Double Agent to keep the Double Agent’s identity a secret.* If the Liberal who performed the investigation decides to publicly disclose the investigation result, their best option is to say the Double Agent is Fascist so as to not risk the life of the Double Agent. Announcing the Double Agent as a Fascist is itself risky: another Liberal might later use an Execution power to kill the Double Agent, believing them to actually be Fascist.
 * *Each non-game-ending election after three Fascist policies have been passed now provides additional information.* Not only is it known that any successfully elected Chancellor is not Hitler, it is also known that assuming a government’s President was Hitler, that government’s Chancellor was not the Double Agent.
 
 ## Thank You
+
 Thank you for being willing to try this expansion. Testing it will help us figure out if it sucks in some way we overlooked.
 
-Please send any testing observations and feedback to williamproffitt@gmail.com.
+If you care to tell us how your game went, please use the game report survey you'll find here: http://william.money/secret/survey
 
 This expansion was created by: Micah Webber, Sarah Feero, and William Proffitt.
+
+
+## Rules Version History
+
+* `2019-002` First rule tweak: no benefit beyond killing double agent for successful double agent kill, and therefore no double agent reveal 2019-02-20
+* `2019-001` Original rules, first played 2019-01-27
