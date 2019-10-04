@@ -1,57 +1,71 @@
 # Secret Hitler: Double Agent Double Trouble Expansion Pack
 
-Rules version: `2019-003`
+Rules version: `2019-004`
+
 
 ## Intro
+
 Remember all those forked timelines you somehow lived through of the historical period starting in 1932 and leading up to the Third Reich or lack thereof in Germany? Remember how the Fascists were a bunch of sneaks who somehow had figured out who each other were? Remember how Fascists smugly coasted on this knowledge? Remember how the Liberals had consistent tragicomedic trust issues due to their difficulties identifying one another? Isn’t it strange that you somehow remember so many forked timelines around this point in history?
 
 It is a little strange. But what if things could have been different? What if the Fascists had a genre of trust issue all their own?
 
+
 ## The Double Agent
-The Secret Hitler: Double Agent Double Trouble expansion pack introduces a special new role: the Double Agent. The Double Agent is on the Liberal team, but has infiltrated the Fascist party. Will the Double Agent be found out? Will the Double Agent assassinate Secret Hitler? Will the Liberal-Fascist conflict come to a relatively boring legislative conclusion? Only you, your party, and that accursed stack of policies can decide.
 
-## Contents
-This expansion pack consists of two cards: an additional Fascist Party Membership card and a single new card, the Liberal Double  Agent Party Membership card.
+The Secret Hitler: Double Agent Double Trouble expansion pack introduces a special new role: the Double Agent. The Double Agent is on the Liberal team, but has infiltrated the Fascist party. Will the Double Agent be discovered and purged? Will the Double Agent assassinate Secret Hitler? Will the Liberal-Fascist conflict come to a relatively boring legislative conclusion? Only you, your party, and that accursed stack of policies can decide.
 
-But really, since I can’t produce Party Membership cards that look like they’re real, this expansion pack includes the two cards mentioned above plus nine other party membership cards: five Liberal, four Fascist.
+
+## Materials
+
+To play this expansion pack, you'll need to replace cards in one Liberal envelope: the Liberal role card needs to become a Double Agent role card, and the Liberal party membership card needs to become a Fascist party membership card. (The Double Agent has done a very good job infiltrating. They remain truly Liberal in their heart, and they still win with the Liberals.)
+
+But since you probably don't have any extra cards laying around, try this:
+
+* Buy some card [sleeves](https://www.amazon.com/gp/product/B072ZY1H1X/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). 
+* Use the print and play edition of Secret Hitler to print yourself one Fascist party membership card and one Liberal role card on plain paper. ([This version](http://william.money/secret/secret-hitler-print-n-play-color.pdf) from a [kind redditor](https://www.reddit.com/r/boardgames/comments/3yepx7/i_made_a_print_and_play_secret_hitler/) is in color, which is nice.)
+* Get creative to turn the Liberal role card into a Double Agent card. Use some art supplies or a presidential sharpie or something.
+* Insert your new role and party membership cards atop the old ones inside sleeves. The Double Agent envelope is complete.
+* Maybe you'll now bring up that the two extra sheets of paper will make the Double Agent envelope a little bit thicker, perhaps perceptibly, and this could out the Double Agent. Well, maybe you can also bring up a way to deal with that yourself. You sure sound like a smart cookie.
+
+You'll also need to have about five slips of paper and five pens or pencils ready.
 
 ## Setup
-Only use this expansion pack with seven or more players. Replace one Liberal role with the  Liberal Double Agent role.
 
-The envelope for the Liberal Double Agent role contains a Nein Ballot card, a Ja! Ballot card, and a Fascist Party Membership card.  In addition, instead of a Secret Role card, the envelope contains a Liberal Double Agent Party Membership card. The Liberal Double Agent Party Membership card has the same back as a Party Membership card, but has the Liberal Double Agent role printed on its face.
+Only use this expansion pack with nine or more players. Replace one Liberal role with the  Double Agent role. (If you decide to try it with less players, feel free to send us feedback on how it went.)
 
-## Important Logistical Rule
-Until the game is over, all players must keep their Secret Role cards inside their envelopes so no other player may see the back nor the front of any other player’s Secret Role card.
+The envelope for the Liberal Double Agent role contains a Nein Ballot card, a Ja! Ballot card, a Double Agent role card, and a Fascist party membership card.
+
 
 ## Coup Liberal Victory by Assassination in the Legislative Chamber
+
 This expansion pack introduces a new way for Liberals to win. The Liberals win if the Double Agent and Secret Hitler are elected to the same government after three Fascist policies have been passed.
 
-## New Game Mechanic: Fascist Traitor Assassination
 
-At any point in the game, any Fascist may say “I assassinate [player name] for being a traitor to the Fascist cause”.
+## New Game Mechanic: Fascist Party Purge
 
-* If the named player is a Fascist, they die.
-* If the named player is the Double Agent, they die. They do not say whether they were the Double Agent, for they are dead.
-* If the named player is a Liberal, the Fascist who attempted the assassination dies.
+At almost* any point in the game, Secret Hitler may begin a Purge by announcing "It is now time to initiate a purge."
 
-Dead players are removed from the game and may not speak, vote, or run for office.
+Once a Purge is initiated, the main gameplay of Secret Hitler is over, and the Purge begins. The Purge will decide the game. Liberals do not have any direct role during a Purge. The Purge proceeds this way:
 
-The Double Agent may not carry out a Traitor Assassination.
+* Each Fascist, the Double Agent, and Secret Hitler pick up a piece of paper and a pen. Each non-Double-Agent Liberal is now identified, as is Secret Hitler. The only remaining unknown in the game is who among the rank-and-file Fascists is a Double Agent.
+* A Liberal volunteer starts a three minute timer.
+* The Fascist party discusses among themselves with the goal of identifying the Double Agent. Each Fascist party member writes down a name on their slip of paper and hands the paper to Secret Hitler before the end of the three minutes.
+* At the conclusion of the three minutes, Secret Hitler reads out each slip of paper. If everyone except the Double Agent has written down the Double Agent's name, the Double Agent, Secret Hitler executes the Double Agent, making for a successful purge, and the Fascist party wins the game. Otherwise, the Double Agent then assassinates Hitler, ending the game in a Liberal win.
 
-There is a period during each game round when a Fascist Traitor Assassination is forbidden: from after a government's President touches the policy deck until any resulting Presidential Powers are used. (If a Liberal policy is passed, the off-limits period ends once the policy is on the board.)
+*NOTE*: It is possible for a successful Purge to be impossible from the outset, because the Double Agent may have already been formally executed by use a Fascist presidential power. In this case, the Purge still happens as usual, but Secret Hitler after reading the votes out simply dies of a heart attack brought on by anxious paranoia, and game ends in a Liberal win.
 
-## Investigating the Double Agent
-When a player uses the Investigate Loyalty Presidential Power, the Double Agent behaves this way under investigation:
+*There is a period during each game round when initiating a Purge is forbidden: from after a government's President touches the policy deck until any resulting Presidential Powers are used. (If a Liberal policy is passed, the off-limits period ends once the policy is on the board.)
 
-* If the investigating player is Fascist, the Double Agent shows them a Fascist Party Membership card.
-* If the investigating player is Liberal, the Double Agent shows them the Liberal Double Agent Party Membership card.
+
 
 ## Strategy Notes and Corollaries
 
-* *Barring mistakes, the Fascists almost always win if their party holds a majority or a 50-50 split, even if the Liberals know who the Fascists are.* This happens simply due to both how the electoral process works and the 11-Fascist, 6-Liberal makeup of the policy deck.
-* *It is important for a Liberal Double Agent under Loyalty Investigation to be inconspicuous about the fact they are choosing between two different Party Membership cards to secretly present.* A mistake here could easily cost the game.
-* *It is important for a Liberal who has performed a Loyalty Investigation against the Liberal Double Agent to keep the Double Agent’s identity a secret.* If the Liberal who performed the investigation decides to publicly disclose the investigation result, their best option is to say the Double Agent is Fascist so as to not risk the life of the Double Agent. Announcing the Double Agent as a Fascist is itself risky: another Liberal might later use an Execution power to kill the Double Agent, believing them to actually be Fascist.
-* *Each non-game-ending election after three Fascist policies have been passed now provides additional information.* Not only is it known that any successfully elected Chancellor is not Hitler, it is also known that assuming a government’s President was Hitler, that government’s Chancellor was not the Double Agent.
+* **Playing as the Double Agent**: The Double Agent is a tricky and strange role. The most important aspect of the role is to appear Fascist to other Fascists, so as to avoid being found out and purged. Assassinating Secret Hitler by being elected to the same government together after putting three Fascist policies on the board is a rare way to win, but it is  satisfying. Always be ready to pin the Double Agent role on someone else in the Fascist party in the event of a Purge.
+* **Investigating the Double Agent**: When a Liberal using the investigation power on another player, it is important for them to keep in mind even if they see a Fascist party membership card, they may have investigated the Double Agent, who is supporting the Liberal cause, however silently.
+* **New end-game information**: Each non-game-ending election after three Fascist policies have been passed now provides additional information. Not only is it known that any successfully elected Chancellor is not Hitler, it is also known that assuming a government’s President was Hitler, that government’s Chancellor was not the Double Agent.
+* **Desperation Purge**: If the Liberal party has the upper hand and is on the verge of winning, it is wise for Secret Hitler to initiate a Purge, even if there is no clarity as to the identity of the Double Agent. The Purge becomes a political mini-game in this case, during which the bluffing skills of the Double Agent are pivotal.
+
+Best wishes for keeping your friendships intact.
 
 ## Thank You
 
@@ -64,6 +78,7 @@ This expansion was created by: Micah Webber, Sarah Feero, and William Proffitt.
 
 ## Rules Version History
 
+* `2019-004` Major change-up: removed Fascist Traitor Assassination, added the Purge, got rid of Double Agent having two party membership cards for now 2019-09-29
 * `2019-003` Created a rule to avoid race condition: presidential power must be used before a Fascist Traitor Assassination can happen 2019-03-17
 * `2019-002` First rule tweak: no benefit beyond killing double agent for successful double agent kill, and therefore no double agent reveal 2019-02-20
 * `2019-001` Original rules, first played 2019-01-27
