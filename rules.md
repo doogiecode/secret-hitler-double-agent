@@ -54,7 +54,7 @@ Once a Purge is initiated, the main gameplay of Secret Hitler is over, and the P
 * Each Fascist, the Double Agent, and Secret Hitler pick up a piece of paper and a pen. Each non-Double-Agent Liberal is now identified, as is Secret Hitler. The only remaining unknown in the game is who among the rank-and-file Fascists is a Double Agent.
 * A Liberal volunteer starts a three minute timer.
 * The Fascist party discusses among themselves with the goal of identifying the Double Agent. Each Fascist party member writes down a name on their slip of paper and hands the paper to Secret Hitler before the end of the three minutes.
-* At the conclusion of the three minutes, Secret Hitler reads out each slip of paper. If everyone except the Double Agent has written down the Double Agent's name, the Double Agent, Secret Hitler executes the Double Agent, making for a successful purge, and the Fascist party wins the game. Otherwise, the Double Agent then assassinates Hitler, ending the game in a Liberal win.
+* At the conclusion of the three minutes, Secret Hitler reads out each slip of paper. If everyone except the Double Agent has written down the Double Agent's name, Secret Hitler executes the Double Agent, making for a successful purge, and the Fascist party wins the game. Otherwise, the Double Agent then assassinates Hitler, ending the game in a Liberal win.
 
 *NOTE*: It is possible for a successful Purge to be impossible from the outset, because the Double Agent may have already been formally executed by use a Fascist presidential power. In this case, the Purge still happens as usual, but Secret Hitler after reading the votes out simply dies of a heart attack brought on by anxious paranoia, and game ends in a Liberal win.
 
