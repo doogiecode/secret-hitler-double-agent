@@ -36,6 +36,10 @@ Only use this expansion pack with nine or more players. Replace one Liberal role
 The envelope for the Liberal Double Agent role contains a Nein Ballot card, a Ja! Ballot card, a Double Agent role card, and a Fascist party membership card.
 
 
+## Starting the Game
+
+The game start has one significant change: the Double Agent opens their eyes along with the Fascists, and so each Fascist sees one additional pair of eyes looking back at them. The Double Agent knows just as much as each player in a Fascist role.
+
 ## Coup Liberal Victory by Assassination in the Legislative Chamber
 
 This expansion pack introduces a new way for Liberals to win. The Liberals win if the Double Agent and Secret Hitler are elected to the same government after three Fascist policies have been passed.
@@ -54,14 +58,15 @@ Once a Purge is initiated, the main gameplay of Secret Hitler is over, and the P
 
 *NOTE*: It is possible for a successful Purge to be impossible from the outset, because the Double Agent may have already been formally executed by use a Fascist presidential power. In this case, the Purge still happens as usual, but Secret Hitler after reading the votes out simply dies of a heart attack brought on by anxious paranoia, and game ends in a Liberal win.
 
-*There is a period during each game round when initiating a Purge is forbidden: from after a government's President touches the policy deck until any resulting Presidential Powers are used. (If a Liberal policy is passed, the off-limits period ends once the policy is on the board.)
+&#42; There is a period during each game round when initiating a Purge is forbidden: from after a government's President touches the policy deck until any resulting Presidential Powers are used. (If a Liberal policy is passed, the off-limits period ends once the policy is on the board.)
 
 
 
-## Strategy Notes and Corollaries
+## Strategy and Side Notes
 
 * **Playing as the Double Agent**: The Double Agent is a tricky and strange role. The most important aspect of the role is to appear Fascist to other Fascists, so as to avoid being found out and purged. Assassinating Secret Hitler by being elected to the same government together after putting three Fascist policies on the board is a rare way to win, but it is  satisfying. Always be ready to pin the Double Agent role on someone else in the Fascist party in the event of a Purge.
 * **Investigating the Double Agent**: When a Liberal using the investigation power on another player, it is important for them to keep in mind even if they see a Fascist party membership card, they may have investigated the Double Agent, who is supporting the Liberal cause, however silently.
+* **Purge time limit**: If three minutes seems like too little or too much time to you, you and your friends can decide to adjust the time limit to better suit what you like.
 * **New end-game information**: Each non-game-ending election after three Fascist policies have been passed now provides additional information. Not only is it known that any successfully elected Chancellor is not Hitler, it is also known that assuming a government’s President was Hitler, that government’s Chancellor was not the Double Agent.
 * **Desperation Purge**: If the Liberal party has the upper hand and is on the verge of winning, it is wise for Secret Hitler to initiate a Purge, even if there is no clarity as to the identity of the Double Agent. The Purge becomes a political mini-game in this case, during which the bluffing skills of the Double Agent are pivotal.
 
