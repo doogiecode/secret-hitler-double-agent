@@ -14,6 +14,8 @@ It is a little strange. But what if things could have been different? What if th
 
 The Secret Hitler: Double Agent Double Trouble expansion pack introduces a special new role: the Double Agent. The Double Agent is on the Liberal team, but has infiltrated the Fascist party. Will the Double Agent be discovered and purged? Will the Double Agent assassinate Secret Hitler? Will the Liberal-Fascist conflict come to a relatively boring legislative conclusion? Only you, your party, and that accursed stack of policies can decide.
 
+This expansion is free. The original game's website, where you can print a free version of the game, is [here](https://secrethitler.com). You can also buy the game, which, you know, supports the creators and stuff.
+
 
 ## Materials
 
@@ -42,7 +44,7 @@ The game start has one significant change: the Double Agent opens their eyes alo
 
 ## Coup Liberal Victory by Assassination in the Legislative Chamber
 
-This expansion pack introduces a new way for Liberals to win. The Liberals win if the Double Agent and Secret Hitler are elected to the same government after three Fascist policies have been passed.
+This expansion pack introduces a new way for Liberals to win. The Liberals win if the Double Agent and Secret Hitler are elected to the same government after three Fascist policies have been passed. (It does not matter which one of them is Chancellor.)
 
 
 ## New Game Mechanic: Fascist Party Purge
